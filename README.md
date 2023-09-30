@@ -1,2 +1,2 @@
-# Face1
-Fake news detection using ncl
+# phase1
+Fake news detection using npl
